@@ -5,15 +5,36 @@
       "group": "Einarmiges Kraulen",
       "level": 1,
       "detail": "Armstreckung",
-      "side": "Rechts"
+      "picture": "Bildlink",
+      "videoRight": "Videolink rechts",
+      "videoLeft": "Videolink links"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "group": "Einarmiges Kraulen",
+      "level": 1,
+      "detail": "Austauchen",
+      "picture": "Bildlink",
+      "videoRight": "Videolink rechts",
+      "videoLeft": "Videolink links"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "group": "Einarmiges Kraulen",
+      "level": 1,
+      "detail": "Schulterrotation",
+      "picture": "Bildlink",
+      "videoRight": "Videolink rechts",
+      "videoLeft": "Videolink links"
+    },
+    {
+      "id": 4,
+      "group": "Einarmiges Kraulen",
+      "level": 1,
+      "detail": "Level",
+      "picture": "Bildlink",
+      "videoRight": "Videolink rechts",
+      "videoLeft": "Videolink links"
     }
   ],
   "comments": [
