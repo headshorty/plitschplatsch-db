@@ -1,8 +1,11 @@
 {
-  "posts": [
+  "exercises": [
     {
       "id": 1,
-      "title": "Post 1"
+      "group": "Einarmiges Kraulen",
+      "level": 1,
+      "detail": "Armstreckung",
+      "side": "Rechts"
     },
     {
       "id": 2,
